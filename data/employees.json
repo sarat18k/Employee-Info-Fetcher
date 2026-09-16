@@ -1,0 +1,92 @@
+[
+  {
+    "name": "John Doe",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "date_joined": "2023-11-10",
+    "experience": "Software Developer at Acme Corp for 2 years, Intern at Google for 6 months",
+    "linkedin": "https://linkedin.com/in/johndoe",
+    "fun_fact": "Loves mountain biking and volunteers at animal shelters"
+  },
+  {
+    "name": "Jane Smith",
+    "department": "Marketing",
+    "role": "Content Strategist",
+    "date_joined": "2022-07-15",
+    "experience": "Content Manager at HubSpot, Copywriter at Freelance",
+    "linkedin": "https://linkedin.com/in/janesmith",
+    "fun_fact": "Writes poetry and has a published book"
+  },
+  {
+    "name": "Robert Lee",
+    "department": "Finance",
+    "role": "Financial Analyst",
+    "date_joined": "2021-03-01",
+    "experience": "Analyst at Morgan Stanley, Junior Analyst at HSBC",
+    "linkedin": "https://linkedin.com/in/robertlee",
+    "fun_fact": "Enjoys chess and competes in local tournaments"
+  },
+  {
+    "name": "Emily Davis",
+    "department": "HR",
+    "role": "HR Manager",
+    "date_joined": "2020-05-20",
+    "experience": "HR Executive at Oracle, Recruiter at IBM",
+    "linkedin": "https://linkedin.com/in/emilydavis",
+    "fun_fact": "Loves hiking and organizes company treks"
+  },
+  {
+    "name": "Carlos Fernandez",
+    "department": "IT",
+    "role": "DevOps Engineer",
+    "date_joined": "2022-09-12",
+    "experience": "DevOps at Atlassian, SysAdmin at GitLab",
+    "linkedin": "https://linkedin.com/in/carlosfernandez",
+    "fun_fact": "Collects vintage computers"
+  },
+  {
+    "name": "Linda Chen",
+    "department": "Product",
+    "role": "Product Manager",
+    "date_joined": "2023-01-10",
+    "experience": "PM at Amazon, Business Analyst at Uber",
+    "linkedin": "https://linkedin.com/in/lindachen",
+    "fun_fact": "Plays the violin and performs in a local orchestra"
+  },
+  {
+    "name": "Mohammed Ali",
+    "department": "Legal",
+    "role": "Compliance Officer",
+    "date_joined": "2019-11-22",
+    "experience": "Compliance at JP Morgan, Legal Advisor at Deloitte",
+    "linkedin": "https://linkedin.com/in/mohammedali",
+    "fun_fact": "Enjoys rock climbing"
+  },
+  {
+    "name": "Aisha Khan",
+    "department": "Design",
+    "role": "UX Designer",
+    "date_joined": "2021-08-17",
+    "experience": "UX at Adobe, UI Designer at Behance",
+    "linkedin": "https://linkedin.com/in/aishakhan",
+    "fun_fact": "Digital artist in her free time"
+  },
+  {
+    "name": "David Kim",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "date_joined": "2020-12-03",
+    "experience": "Developer at Spotify, Intern at Facebook",
+    "linkedin": "https://linkedin.com/in/davidkim",
+    "fun_fact": "Plays e-sports and streams on Twitch"
+  },
+  {
+    "name": "Sarah Johnson",
+    "department": "Customer Success",
+    "role": "Customer Success Manager",
+    "date_joined": "2022-04-05",
+    "experience": "CSM at Salesforce, Customer Rep at Zendesk",
+    "linkedin": "https://linkedin.com/in/sarahjohnson",
+    "fun_fact": "Bakes artisan bread"
+  }
+]
